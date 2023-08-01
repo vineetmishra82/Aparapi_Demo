@@ -1,6 +1,7 @@
 package com.kpts.port23;
 
 import com.aparapi.device.Device;
+import com.aparapi.internal.kernel.KernelManager;
 import com.aparapi.internal.kernel.KernelPreferences;
 
 public class Main {
